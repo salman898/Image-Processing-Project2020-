@@ -8,9 +8,9 @@ The list give below is requires for running.
 
    2. then we have install "Open-Cv2" python Package for object Detection machine learning algorithm .
 
-   3.for installing open-cv2 the command is used (pip install --upgrade opencv-python)
+     3.for installing open-cv2 the command is used (pip install --upgrade opencv-python)
 
-   4.we also require numpy library (pip install numpy)
+     4.we also require numpy library (pip install numpy)
 
    5. we have also Haar-casCade Classifier of face and eye modules.
 
