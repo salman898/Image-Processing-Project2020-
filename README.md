@@ -16,4 +16,9 @@ The list give below is requires for running.
 
    6. must present data in the project Dataset folder from where the program select the image and 
      detects faces and eyes from that file .
+     
+     Group Members Name and Roll Numbers.
+     
+     Name: Salman                                        Name: Jatendar Kumar
+     Roll no# 2k17/IT/79                                 Roll no# 2k17/IT/37
 
